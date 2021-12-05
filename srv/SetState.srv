@@ -1,0 +1,5 @@
+string state
+string target
+string sub_state
+---
+bool responce
